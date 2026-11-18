@@ -1,0 +1,19 @@
+{
+  "requested_model": "deepseek-v4.1-flash",
+  "server_models": [
+    "deepseek-v4-1-flash-261017"
+  ],
+  "captured_first_round_calls": 120,
+  "prompt_tokens_total": 36259,
+  "completion_tokens_total": 9258,
+  "actual_api_elapsed_ms_sum_of_individual_calls": 185231.2,
+  "actual_api_elapsed_ms_mean_per_call": 1543.59,
+  "actual_api_elapsed_ms_p95_per_call": 1905.06,
+  "finish_reason_counts": {
+    "stop": 120
+  },
+  "truncated_outputs": 0,
+  "unparsed_json_outputs": 0,
+  "api_currency_cost": null,
+  "note": "The elapsed values are the sum/statistics of per-call API timers; they are not replay wall time or simulated service/queue latency."
+}

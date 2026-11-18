@@ -1,0 +1,60 @@
+{
+  "calibration_split": "dev",
+  "first_round_source": "deepseek-v4.1-flash",
+  "n_dev": 24,
+  "quality_rates_by_observable_source_state": {
+    "visible": {
+      "n": 9,
+      "initial_exact_rate": 0.4444444444444444,
+      "after_execution_exact_rate": 0.4444444444444444,
+      "after_development_policy_path_exact_rate": 0.8888888888888888,
+      "validator_pass_rate_on_consistent_candidates": 0.8,
+      "validator_false_pass_rate_on_inconsistent_candidates": 0.0,
+      "validator_eligible_cases": 9,
+      "validator_expected_exact_gain_per_eligible_case": 0.4444444444444444,
+      "validator_flag_count": 5,
+      "flagged_cases_repaired_exactly": 5
+    },
+    "lookup_required": {
+      "n": 15,
+      "initial_exact_rate": 0.0,
+      "after_execution_exact_rate": 0.0,
+      "after_development_policy_path_exact_rate": 1.0,
+      "validator_pass_rate_on_consistent_candidates": null,
+      "validator_false_pass_rate_on_inconsistent_candidates": null,
+      "validator_eligible_cases": 0,
+      "validator_expected_exact_gain_per_eligible_case": 0.0,
+      "validator_flag_count": 0,
+      "flagged_cases_repaired_exactly": 0
+    }
+  },
+  "action_gain_priors": {
+    "generate": 1.0,
+    "query": 1.0,
+    "execute": 0.05,
+    "validate": 0.4444444444444444,
+    "revise": 1.0
+  },
+  "policy_parameters": {
+    "minimum_marginal_value_points": 8.0,
+    "exploration_fraction": 0.08,
+    "max_local_revisions_per_request": 1,
+    "action_cost_units": {
+      "generate": 1,
+      "query": 1,
+      "execute": 1,
+      "validate": 1,
+      "revise": 1,
+      "rollback": 1
+    },
+    "simulated_latency_mean_ms": {
+      "generate": 2300,
+      "query": 45,
+      "execute": 25,
+      "validate": 35,
+      "revise": 120,
+      "rollback": 35
+    }
+  },
+  "note": "Gold labels were used only here to fit aggregate development priors; runtime routing reads this summary, never dev/test labels."
+}

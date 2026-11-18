@@ -1,0 +1,40 @@
+{
+  "seed_by_split": {
+    "dev": 761,
+    "test": 762,
+    "shift": 763
+  },
+  "count_by_split": {
+    "dev": 24,
+    "test": 48,
+    "shift": 48
+  },
+  "distribution": {
+    "dev": "baseline",
+    "test": "baseline",
+    "shift": "tight SLA, heavier loads, fewer visible rate cards, changed values"
+  },
+  "realized": {
+    "dev": {
+      "requests": 24,
+      "catalog_rows": 100,
+      "gold_quotes": 23,
+      "gold_holds": 1,
+      "visible_rate_cards": 9
+    },
+    "test": {
+      "requests": 48,
+      "catalog_rows": 189,
+      "gold_quotes": 45,
+      "gold_holds": 3,
+      "visible_rate_cards": 13
+    },
+    "shift": {
+      "requests": 48,
+      "catalog_rows": 250,
+      "gold_quotes": 25,
+      "gold_holds": 23,
+      "visible_rate_cards": 9
+    }
+  }
+}

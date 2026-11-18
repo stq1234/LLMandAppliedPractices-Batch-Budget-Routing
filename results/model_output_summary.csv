@@ -1,0 +1,7 @@
+﻿split,context_group,requests,server_models,finish_reason_counts,truncated,unparsed_json,need_data,complete_quote_answers,quote_answers,feasible_quotes_with_visible_card,exact_answer_count,exact_answer_rate,prompt_tokens_total,completion_tokens_total,api_elapsed_ms_mean,api_elapsed_ms_p95
+dev,visible,9,deepseek-v4-1-flash-261017,"{""stop"": 9}",0,0,0,5,5,5,4,0.4444444444444444,4381,1101,1871.23,1894.66
+dev,lookup_required,15,deepseek-v4-1-flash-261017,"{""stop"": 15}",0,0,15,0,0,,0,0.0,3552,939,1441.03,1599.69
+test,visible,13,deepseek-v4-1-flash-261017,"{""stop"": 13}",0,0,1,9,9,9,9,0.6923076923076923,5835,1498,1748.19,1880.78
+test,lookup_required,35,deepseek-v4-1-flash-261017,"{""stop"": 35}",0,0,35,0,0,,0,0.0,8213,2144,1527.47,1735.78
+shift,visible,9,deepseek-v4-1-flash-261017,"{""stop"": 9}",0,0,6,3,3,3,3,0.3333333333333333,4890,1026,1757.96,1935.8
+shift,lookup_required,39,deepseek-v4-1-flash-261017,"{""stop"": 39}",0,0,39,0,0,,0,0.0,9388,2550,1404.24,1572.91

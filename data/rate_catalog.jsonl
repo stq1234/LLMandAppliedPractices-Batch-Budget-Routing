@@ -1,0 +1,539 @@
+{"base_cents": 777, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 516, "lane_id": "LANE_DEV_000", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 457, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 331, "lane_id": "LANE_DEV_000", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 649, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 566, "lane_id": "LANE_DEV_000", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 278, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 247, "lane_id": "LANE_DEV_001", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 728, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 500, "lane_id": "LANE_DEV_001", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 720, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 535, "lane_id": "LANE_DEV_001", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 919, "capacity_kg": 1400, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 627, "lane_id": "LANE_DEV_001", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 416, "capacity_kg": 2100, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 258, "lane_id": "LANE_DEV_001", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 271, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 743, "lane_id": "LANE_DEV_002", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 408, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 729, "lane_id": "LANE_DEV_002", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 551, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 418, "lane_id": "LANE_DEV_002", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1361, "capacity_kg": 3000, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 462, "lane_id": "LANE_DEV_002", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1073, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 189, "lane_id": "LANE_DEV_003", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 979, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 511, "lane_id": "LANE_DEV_003", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 935, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 670, "lane_id": "LANE_DEV_003", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 330, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 459, "lane_id": "LANE_DEV_004", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 787, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 634, "lane_id": "LANE_DEV_004", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 580, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 716, "lane_id": "LANE_DEV_004", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 497, "capacity_kg": 4500, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 532, "lane_id": "LANE_DEV_004", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1154, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 507, "lane_id": "LANE_DEV_005", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 450, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 436, "lane_id": "LANE_DEV_005", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 317, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 217, "lane_id": "LANE_DEV_005", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 798, "capacity_kg": 3000, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 588, "lane_id": "LANE_DEV_005", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 517, "capacity_kg": 3000, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 587, "lane_id": "LANE_DEV_005", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 610, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 520, "lane_id": "LANE_DEV_006", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1289, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 516, "lane_id": "LANE_DEV_006", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 309, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 552, "lane_id": "LANE_DEV_006", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 506, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 374, "lane_id": "LANE_DEV_006", "per_kg_cents": 8, "services": ["standard"]}
+{"base_cents": 832, "capacity_kg": 4500, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 510, "lane_id": "LANE_DEV_006", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 367, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 242, "lane_id": "LANE_DEV_007", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 863, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 220, "lane_id": "LANE_DEV_007", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1089, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 510, "lane_id": "LANE_DEV_007", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1003, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 235, "lane_id": "LANE_DEV_007", "per_kg_cents": 8, "services": ["standard"]}
+{"base_cents": 277, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 702, "lane_id": "LANE_DEV_008", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1024, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 742, "lane_id": "LANE_DEV_008", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 1047, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 208, "lane_id": "LANE_DEV_008", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 521, "capacity_kg": 4500, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 277, "lane_id": "LANE_DEV_008", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1322, "capacity_kg": 2100, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 225, "lane_id": "LANE_DEV_008", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 897, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 610, "lane_id": "LANE_DEV_009", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1373, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 604, "lane_id": "LANE_DEV_009", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 713, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 742, "lane_id": "LANE_DEV_009", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 746, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 536, "lane_id": "LANE_DEV_009", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1093, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 254, "lane_id": "LANE_DEV_010", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1158, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 201, "lane_id": "LANE_DEV_010", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 966, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 365, "lane_id": "LANE_DEV_010", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 678, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 468, "lane_id": "LANE_DEV_010", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1279, "capacity_kg": 2100, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 573, "lane_id": "LANE_DEV_010", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 882, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 259, "lane_id": "LANE_DEV_011", "per_kg_cents": 8, "services": ["standard"]}
+{"base_cents": 990, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 329, "lane_id": "LANE_DEV_011", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1298, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 646, "lane_id": "LANE_DEV_011", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 950, "capacity_kg": 1400, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 472, "lane_id": "LANE_DEV_011", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1125, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 414, "lane_id": "LANE_DEV_012", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 433, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 301, "lane_id": "LANE_DEV_012", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1345, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 663, "lane_id": "LANE_DEV_012", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 644, "capacity_kg": 4500, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 191, "lane_id": "LANE_DEV_012", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 409, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 599, "lane_id": "LANE_DEV_013", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 822, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 693, "lane_id": "LANE_DEV_013", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1042, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 615, "lane_id": "LANE_DEV_013", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 893, "capacity_kg": 4500, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 401, "lane_id": "LANE_DEV_013", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 586, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 510, "lane_id": "LANE_DEV_014", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1022, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 519, "lane_id": "LANE_DEV_014", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 678, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 401, "lane_id": "LANE_DEV_014", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 827, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 704, "lane_id": "LANE_DEV_015", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1122, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 594, "lane_id": "LANE_DEV_015", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 486, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 752, "lane_id": "LANE_DEV_015", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 390, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 636, "lane_id": "LANE_DEV_016", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 860, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 225, "lane_id": "LANE_DEV_016", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1002, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 474, "lane_id": "LANE_DEV_016", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 450, "capacity_kg": 4500, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 237, "lane_id": "LANE_DEV_016", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1393, "capacity_kg": 2100, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 304, "lane_id": "LANE_DEV_016", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1135, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 545, "lane_id": "LANE_DEV_017", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 643, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 216, "lane_id": "LANE_DEV_017", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 567, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 201, "lane_id": "LANE_DEV_017", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 529, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 366, "lane_id": "LANE_DEV_018", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1388, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 706, "lane_id": "LANE_DEV_018", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 1123, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 453, "lane_id": "LANE_DEV_018", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1011, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 453, "lane_id": "LANE_DEV_019", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1294, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 723, "lane_id": "LANE_DEV_019", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1315, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 298, "lane_id": "LANE_DEV_019", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1093, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 365, "lane_id": "LANE_DEV_019", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 517, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 537, "lane_id": "LANE_DEV_020", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 527, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 556, "lane_id": "LANE_DEV_020", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1090, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 195, "lane_id": "LANE_DEV_020", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 737, "capacity_kg": 1400, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 474, "lane_id": "LANE_DEV_020", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 455, "capacity_kg": 4500, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 410, "lane_id": "LANE_DEV_020", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 384, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 444, "lane_id": "LANE_DEV_021", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 988, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 626, "lane_id": "LANE_DEV_021", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1202, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 637, "lane_id": "LANE_DEV_021", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 649, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 725, "lane_id": "LANE_DEV_021", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1273, "capacity_kg": 4500, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 393, "lane_id": "LANE_DEV_021", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 1172, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 570, "lane_id": "LANE_DEV_022", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1288, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 544, "lane_id": "LANE_DEV_022", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 496, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 303, "lane_id": "LANE_DEV_022", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1024, "capacity_kg": 1400, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 746, "lane_id": "LANE_DEV_022", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 927, "capacity_kg": 1400, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 216, "lane_id": "LANE_DEV_022", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 641, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 188, "lane_id": "LANE_DEV_023", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 432, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 338, "lane_id": "LANE_DEV_023", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1108, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 419, "lane_id": "LANE_DEV_023", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 685, "capacity_kg": 4500, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 566, "lane_id": "LANE_DEV_023", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1030, "capacity_kg": 3000, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 435, "lane_id": "LANE_DEV_023", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1048, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 520, "lane_id": "LANE_TEST_000", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 309, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 290, "lane_id": "LANE_TEST_000", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 684, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 540, "lane_id": "LANE_TEST_000", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1287, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 658, "lane_id": "LANE_TEST_000", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1103, "capacity_kg": 4500, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 238, "lane_id": "LANE_TEST_000", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 832, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 748, "lane_id": "LANE_TEST_001", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 663, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 751, "lane_id": "LANE_TEST_001", "per_kg_cents": 3, "services": ["standard"]}
+{"base_cents": 1240, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 307, "lane_id": "LANE_TEST_001", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 988, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 633, "lane_id": "LANE_TEST_002", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1266, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 465, "lane_id": "LANE_TEST_002", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 588, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 515, "lane_id": "LANE_TEST_002", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 337, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 633, "lane_id": "LANE_TEST_003", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 895, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 385, "lane_id": "LANE_TEST_003", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 865, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 689, "lane_id": "LANE_TEST_003", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 589, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 191, "lane_id": "LANE_TEST_004", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 574, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 230, "lane_id": "LANE_TEST_004", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 693, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 679, "lane_id": "LANE_TEST_004", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 1347, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 666, "lane_id": "LANE_TEST_004", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1126, "capacity_kg": 3000, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 224, "lane_id": "LANE_TEST_004", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1095, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 639, "lane_id": "LANE_TEST_005", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 769, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 427, "lane_id": "LANE_TEST_005", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1248, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 363, "lane_id": "LANE_TEST_005", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1035, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 370, "lane_id": "LANE_TEST_005", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 867, "capacity_kg": 3000, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 265, "lane_id": "LANE_TEST_005", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 401, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 627, "lane_id": "LANE_TEST_006", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1176, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 646, "lane_id": "LANE_TEST_006", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 801, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 367, "lane_id": "LANE_TEST_006", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 271, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 624, "lane_id": "LANE_TEST_007", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1334, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 653, "lane_id": "LANE_TEST_007", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 517, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 375, "lane_id": "LANE_TEST_007", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1014, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 749, "lane_id": "LANE_TEST_007", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 461, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 749, "lane_id": "LANE_TEST_008", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 402, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 626, "lane_id": "LANE_TEST_008", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1311, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 722, "lane_id": "LANE_TEST_008", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 760, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 566, "lane_id": "LANE_TEST_009", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 737, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 208, "lane_id": "LANE_TEST_009", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 493, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 556, "lane_id": "LANE_TEST_009", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1006, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 614, "lane_id": "LANE_TEST_009", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 481, "capacity_kg": 2100, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 573, "lane_id": "LANE_TEST_009", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 933, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 736, "lane_id": "LANE_TEST_010", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1110, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 595, "lane_id": "LANE_TEST_010", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 267, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 579, "lane_id": "LANE_TEST_010", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1171, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 258, "lane_id": "LANE_TEST_011", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 1115, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 470, "lane_id": "LANE_TEST_011", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 319, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 321, "lane_id": "LANE_TEST_011", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 911, "capacity_kg": 4500, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 260, "lane_id": "LANE_TEST_011", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 744, "capacity_kg": 3000, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 205, "lane_id": "LANE_TEST_011", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 627, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 524, "lane_id": "LANE_TEST_012", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1204, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 405, "lane_id": "LANE_TEST_012", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 731, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 403, "lane_id": "LANE_TEST_012", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 955, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 200, "lane_id": "LANE_TEST_013", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 396, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 719, "lane_id": "LANE_TEST_013", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1339, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 630, "lane_id": "LANE_TEST_013", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 643, "capacity_kg": 3000, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 611, "lane_id": "LANE_TEST_013", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 317, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 720, "lane_id": "LANE_TEST_014", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1358, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 292, "lane_id": "LANE_TEST_014", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 353, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 406, "lane_id": "LANE_TEST_014", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 621, "capacity_kg": 1400, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 378, "lane_id": "LANE_TEST_014", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 370, "capacity_kg": 1400, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 536, "lane_id": "LANE_TEST_014", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1280, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 697, "lane_id": "LANE_TEST_015", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1056, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 208, "lane_id": "LANE_TEST_015", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 550, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 330, "lane_id": "LANE_TEST_015", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 408, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 645, "lane_id": "LANE_TEST_016", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1241, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 360, "lane_id": "LANE_TEST_016", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 683, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 508, "lane_id": "LANE_TEST_016", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 822, "capacity_kg": 3000, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 599, "lane_id": "LANE_TEST_016", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 864, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 370, "lane_id": "LANE_TEST_017", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1398, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 504, "lane_id": "LANE_TEST_017", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 740, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 420, "lane_id": "LANE_TEST_017", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1230, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 405, "lane_id": "LANE_TEST_018", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 608, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 440, "lane_id": "LANE_TEST_018", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 1251, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 209, "lane_id": "LANE_TEST_018", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1296, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 278, "lane_id": "LANE_TEST_019", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 607, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 642, "lane_id": "LANE_TEST_019", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 562, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 448, "lane_id": "LANE_TEST_019", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1225, "capacity_kg": 4500, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 506, "lane_id": "LANE_TEST_019", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 367, "capacity_kg": 1400, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 551, "lane_id": "LANE_TEST_019", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 833, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 669, "lane_id": "LANE_TEST_020", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1059, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 691, "lane_id": "LANE_TEST_020", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 407, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 454, "lane_id": "LANE_TEST_020", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 388, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 305, "lane_id": "LANE_TEST_020", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 456, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 330, "lane_id": "LANE_TEST_021", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 763, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 503, "lane_id": "LANE_TEST_021", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1374, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 736, "lane_id": "LANE_TEST_021", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 943, "capacity_kg": 3000, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 427, "lane_id": "LANE_TEST_021", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 557, "capacity_kg": 2100, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 365, "lane_id": "LANE_TEST_021", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1054, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 527, "lane_id": "LANE_TEST_022", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 974, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 243, "lane_id": "LANE_TEST_022", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 636, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 557, "lane_id": "LANE_TEST_022", "per_kg_cents": 3, "services": ["standard"]}
+{"base_cents": 1155, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 408, "lane_id": "LANE_TEST_022", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 485, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 728, "lane_id": "LANE_TEST_023", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 324, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 347, "lane_id": "LANE_TEST_023", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 714, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 673, "lane_id": "LANE_TEST_023", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 282, "capacity_kg": 1400, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 296, "lane_id": "LANE_TEST_023", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1021, "capacity_kg": 2100, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 515, "lane_id": "LANE_TEST_023", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 289, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 506, "lane_id": "LANE_TEST_024", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 791, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 667, "lane_id": "LANE_TEST_024", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 509, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 404, "lane_id": "LANE_TEST_024", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 922, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 496, "lane_id": "LANE_TEST_025", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 258, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 451, "lane_id": "LANE_TEST_025", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 654, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 363, "lane_id": "LANE_TEST_025", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 844, "capacity_kg": 3000, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 551, "lane_id": "LANE_TEST_025", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 453, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 684, "lane_id": "LANE_TEST_026", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 898, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 628, "lane_id": "LANE_TEST_026", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 560, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 244, "lane_id": "LANE_TEST_026", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 584, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 252, "lane_id": "LANE_TEST_026", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 518, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 215, "lane_id": "LANE_TEST_027", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 299, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 266, "lane_id": "LANE_TEST_027", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 1369, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 452, "lane_id": "LANE_TEST_027", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 729, "capacity_kg": 1400, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 751, "lane_id": "LANE_TEST_027", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1242, "capacity_kg": 2100, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 519, "lane_id": "LANE_TEST_027", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 529, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 244, "lane_id": "LANE_TEST_028", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 798, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 353, "lane_id": "LANE_TEST_028", "per_kg_cents": 3, "services": ["standard"]}
+{"base_cents": 493, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 431, "lane_id": "LANE_TEST_028", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1221, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 712, "lane_id": "LANE_TEST_028", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1209, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 237, "lane_id": "LANE_TEST_029", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1178, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 514, "lane_id": "LANE_TEST_029", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 663, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 451, "lane_id": "LANE_TEST_029", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1002, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 445, "lane_id": "LANE_TEST_029", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 1093, "capacity_kg": 2100, "carrier_id": "C05", "eta_days": 3, "express_surcharge_cents": 449, "lane_id": "LANE_TEST_029", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 775, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 527, "lane_id": "LANE_TEST_030", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 611, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 343, "lane_id": "LANE_TEST_030", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 975, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 181, "lane_id": "LANE_TEST_030", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 457, "capacity_kg": 4500, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 180, "lane_id": "LANE_TEST_030", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 326, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 687, "lane_id": "LANE_TEST_031", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 984, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 677, "lane_id": "LANE_TEST_031", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 984, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 733, "lane_id": "LANE_TEST_031", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1284, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 748, "lane_id": "LANE_TEST_031", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 441, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 482, "lane_id": "LANE_TEST_032", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 624, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 190, "lane_id": "LANE_TEST_032", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 943, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 257, "lane_id": "LANE_TEST_032", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 769, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 298, "lane_id": "LANE_TEST_033", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 822, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 574, "lane_id": "LANE_TEST_033", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1008, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 385, "lane_id": "LANE_TEST_033", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 255, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 506, "lane_id": "LANE_TEST_034", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1283, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 246, "lane_id": "LANE_TEST_034", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 938, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 372, "lane_id": "LANE_TEST_034", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 854, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 433, "lane_id": "LANE_TEST_034", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1278, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 561, "lane_id": "LANE_TEST_035", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 942, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 278, "lane_id": "LANE_TEST_035", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 786, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 195, "lane_id": "LANE_TEST_035", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 827, "capacity_kg": 1400, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 643, "lane_id": "LANE_TEST_035", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 520, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 569, "lane_id": "LANE_TEST_036", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1350, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 287, "lane_id": "LANE_TEST_036", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 255, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 445, "lane_id": "LANE_TEST_036", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1031, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 510, "lane_id": "LANE_TEST_037", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 825, "capacity_kg": 2100, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 344, "lane_id": "LANE_TEST_037", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1113, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 626, "lane_id": "LANE_TEST_037", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 859, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 575, "lane_id": "LANE_TEST_038", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1326, "capacity_kg": 4500, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 605, "lane_id": "LANE_TEST_038", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 335, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 496, "lane_id": "LANE_TEST_038", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1109, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 357, "lane_id": "LANE_TEST_039", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 608, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 664, "lane_id": "LANE_TEST_039", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 626, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 494, "lane_id": "LANE_TEST_039", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1035, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 322, "lane_id": "LANE_TEST_039", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 654, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 383, "lane_id": "LANE_TEST_040", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 757, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 186, "lane_id": "LANE_TEST_040", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1122, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 215, "lane_id": "LANE_TEST_040", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 352, "capacity_kg": 4500, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 628, "lane_id": "LANE_TEST_040", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1325, "capacity_kg": 1400, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 551, "lane_id": "LANE_TEST_040", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1252, "capacity_kg": 4500, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 653, "lane_id": "LANE_TEST_041", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 443, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 213, "lane_id": "LANE_TEST_041", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 317, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 635, "lane_id": "LANE_TEST_041", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 722, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 605, "lane_id": "LANE_TEST_041", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 330, "capacity_kg": 2100, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 231, "lane_id": "LANE_TEST_041", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 590, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 316, "lane_id": "LANE_TEST_042", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 259, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 605, "lane_id": "LANE_TEST_042", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 678, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 238, "lane_id": "LANE_TEST_042", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 580, "capacity_kg": 2100, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 687, "lane_id": "LANE_TEST_042", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 994, "capacity_kg": 4500, "carrier_id": "C05", "eta_days": 3, "express_surcharge_cents": 257, "lane_id": "LANE_TEST_042", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1034, "capacity_kg": 3000, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 558, "lane_id": "LANE_TEST_043", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 914, "capacity_kg": 3000, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 555, "lane_id": "LANE_TEST_043", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 897, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 611, "lane_id": "LANE_TEST_043", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 572, "capacity_kg": 4500, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 274, "lane_id": "LANE_TEST_043", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1015, "capacity_kg": 2100, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 274, "lane_id": "LANE_TEST_043", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 287, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 365, "lane_id": "LANE_TEST_044", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 577, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 640, "lane_id": "LANE_TEST_044", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1052, "capacity_kg": 2100, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 629, "lane_id": "LANE_TEST_044", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 529, "capacity_kg": 1400, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 698, "lane_id": "LANE_TEST_044", "per_kg_cents": 8, "services": ["standard"]}
+{"base_cents": 537, "capacity_kg": 1400, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 185, "lane_id": "LANE_TEST_045", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 370, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 275, "lane_id": "LANE_TEST_045", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 391, "capacity_kg": 4500, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 706, "lane_id": "LANE_TEST_045", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1216, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 660, "lane_id": "LANE_TEST_045", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 290, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 698, "lane_id": "LANE_TEST_046", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1167, "capacity_kg": 1400, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 743, "lane_id": "LANE_TEST_046", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 625, "capacity_kg": 1400, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 674, "lane_id": "LANE_TEST_046", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1026, "capacity_kg": 2100, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 375, "lane_id": "LANE_TEST_047", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1047, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 631, "lane_id": "LANE_TEST_047", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 620, "capacity_kg": 3000, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 264, "lane_id": "LANE_TEST_047", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 546, "capacity_kg": 500, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 285, "lane_id": "LANE_SHIFT_000", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 1370, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 726, "lane_id": "LANE_SHIFT_000", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1010, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 5, "express_surcharge_cents": 301, "lane_id": "LANE_SHIFT_000", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1655, "capacity_kg": 2400, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 614, "lane_id": "LANE_SHIFT_000", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1029, "capacity_kg": 2400, "carrier_id": "C05", "eta_days": 3, "express_surcharge_cents": 329, "lane_id": "LANE_SHIFT_000", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1263, "capacity_kg": 2400, "carrier_id": "C06", "eta_days": 3, "express_surcharge_cents": 566, "lane_id": "LANE_SHIFT_000", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 436, "capacity_kg": 1700, "carrier_id": "C01", "eta_days": 6, "express_surcharge_cents": 255, "lane_id": "LANE_SHIFT_001", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 439, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 5, "express_surcharge_cents": 649, "lane_id": "LANE_SHIFT_001", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1397, "capacity_kg": 2400, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 314, "lane_id": "LANE_SHIFT_001", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 421, "capacity_kg": 2400, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 709, "lane_id": "LANE_SHIFT_001", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1777, "capacity_kg": 2400, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 287, "lane_id": "LANE_SHIFT_001", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 884, "capacity_kg": 900, "carrier_id": "C06", "eta_days": 2, "express_surcharge_cents": 328, "lane_id": "LANE_SHIFT_001", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 749, "capacity_kg": 1700, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 735, "lane_id": "LANE_SHIFT_002", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1091, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 274, "lane_id": "LANE_SHIFT_002", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 956, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 242, "lane_id": "LANE_SHIFT_002", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1688, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 5, "express_surcharge_cents": 344, "lane_id": "LANE_SHIFT_002", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1638, "capacity_kg": 500, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 512, "lane_id": "LANE_SHIFT_002", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1523, "capacity_kg": 500, "carrier_id": "C06", "eta_days": 5, "express_surcharge_cents": 590, "lane_id": "LANE_SHIFT_002", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1432, "capacity_kg": 500, "carrier_id": "C01", "eta_days": 5, "express_surcharge_cents": 204, "lane_id": "LANE_SHIFT_003", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1551, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 341, "lane_id": "LANE_SHIFT_003", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1146, "capacity_kg": 1700, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 434, "lane_id": "LANE_SHIFT_003", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 1301, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 6, "express_surcharge_cents": 193, "lane_id": "LANE_SHIFT_003", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1325, "capacity_kg": 1200, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 536, "lane_id": "LANE_SHIFT_003", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 1027, "capacity_kg": 1200, "carrier_id": "C06", "eta_days": 3, "express_surcharge_cents": 578, "lane_id": "LANE_SHIFT_003", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 308, "capacity_kg": 500, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 759, "lane_id": "LANE_SHIFT_004", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 974, "capacity_kg": 1200, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 529, "lane_id": "LANE_SHIFT_004", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 305, "capacity_kg": 500, "carrier_id": "C03", "eta_days": 6, "express_surcharge_cents": 550, "lane_id": "LANE_SHIFT_004", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 1132, "capacity_kg": 1700, "carrier_id": "C04", "eta_days": 5, "express_surcharge_cents": 455, "lane_id": "LANE_SHIFT_004", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1584, "capacity_kg": 1700, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 193, "lane_id": "LANE_SHIFT_005", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1145, "capacity_kg": 2400, "carrier_id": "C02", "eta_days": 5, "express_surcharge_cents": 261, "lane_id": "LANE_SHIFT_005", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 1759, "capacity_kg": 3600, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 418, "lane_id": "LANE_SHIFT_005", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1277, "capacity_kg": 1700, "carrier_id": "C04", "eta_days": 6, "express_surcharge_cents": 504, "lane_id": "LANE_SHIFT_005", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 1338, "capacity_kg": 1700, "carrier_id": "C05", "eta_days": 3, "express_surcharge_cents": 457, "lane_id": "LANE_SHIFT_005", "per_kg_cents": 3, "services": ["standard"]}
+{"base_cents": 1102, "capacity_kg": 2400, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 580, "lane_id": "LANE_SHIFT_006", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 828, "capacity_kg": 1200, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 305, "lane_id": "LANE_SHIFT_006", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 1791, "capacity_kg": 2400, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 464, "lane_id": "LANE_SHIFT_006", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 586, "capacity_kg": 1200, "carrier_id": "C04", "eta_days": 5, "express_surcharge_cents": 192, "lane_id": "LANE_SHIFT_006", "per_kg_cents": 8, "services": ["standard"]}
+{"base_cents": 1439, "capacity_kg": 3600, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 290, "lane_id": "LANE_SHIFT_006", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1613, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 722, "lane_id": "LANE_SHIFT_007", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 979, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 368, "lane_id": "LANE_SHIFT_007", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 620, "capacity_kg": 2400, "carrier_id": "C03", "eta_days": 5, "express_surcharge_cents": 274, "lane_id": "LANE_SHIFT_007", "per_kg_cents": 11, "services": ["standard"]}
+{"base_cents": 766, "capacity_kg": 1700, "carrier_id": "C04", "eta_days": 6, "express_surcharge_cents": 196, "lane_id": "LANE_SHIFT_007", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1190, "capacity_kg": 500, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 716, "lane_id": "LANE_SHIFT_007", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1705, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 6, "express_surcharge_cents": 565, "lane_id": "LANE_SHIFT_008", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1448, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 638, "lane_id": "LANE_SHIFT_008", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 351, "capacity_kg": 2400, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 558, "lane_id": "LANE_SHIFT_008", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1455, "capacity_kg": 500, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 448, "lane_id": "LANE_SHIFT_008", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1633, "capacity_kg": 1700, "carrier_id": "C05", "eta_days": 5, "express_surcharge_cents": 563, "lane_id": "LANE_SHIFT_008", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 934, "capacity_kg": 1700, "carrier_id": "C06", "eta_days": 1, "express_surcharge_cents": 425, "lane_id": "LANE_SHIFT_008", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1459, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 5, "express_surcharge_cents": 261, "lane_id": "LANE_SHIFT_009", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1230, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 5, "express_surcharge_cents": 526, "lane_id": "LANE_SHIFT_009", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 358, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 701, "lane_id": "LANE_SHIFT_009", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 526, "capacity_kg": 500, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 411, "lane_id": "LANE_SHIFT_009", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 1083, "capacity_kg": 2400, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 735, "lane_id": "LANE_SHIFT_010", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 942, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 673, "lane_id": "LANE_SHIFT_010", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 653, "capacity_kg": 500, "carrier_id": "C03", "eta_days": 6, "express_surcharge_cents": 408, "lane_id": "LANE_SHIFT_010", "per_kg_cents": 8, "services": ["standard"]}
+{"base_cents": 1270, "capacity_kg": 1700, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 209, "lane_id": "LANE_SHIFT_010", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 448, "capacity_kg": 900, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 328, "lane_id": "LANE_SHIFT_010", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 1174, "capacity_kg": 1200, "carrier_id": "C06", "eta_days": 5, "express_surcharge_cents": 458, "lane_id": "LANE_SHIFT_010", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 472, "capacity_kg": 2400, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 420, "lane_id": "LANE_SHIFT_011", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 315, "capacity_kg": 1200, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 398, "lane_id": "LANE_SHIFT_011", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1304, "capacity_kg": 500, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 746, "lane_id": "LANE_SHIFT_011", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 643, "capacity_kg": 1700, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 587, "lane_id": "LANE_SHIFT_011", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1697, "capacity_kg": 3600, "carrier_id": "C01", "eta_days": 6, "express_surcharge_cents": 550, "lane_id": "LANE_SHIFT_012", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 683, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 5, "express_surcharge_cents": 239, "lane_id": "LANE_SHIFT_012", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 754, "capacity_kg": 3600, "carrier_id": "C03", "eta_days": 6, "express_surcharge_cents": 279, "lane_id": "LANE_SHIFT_012", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 904, "capacity_kg": 1200, "carrier_id": "C04", "eta_days": 6, "express_surcharge_cents": 341, "lane_id": "LANE_SHIFT_012", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 1704, "capacity_kg": 1200, "carrier_id": "C05", "eta_days": 5, "express_surcharge_cents": 363, "lane_id": "LANE_SHIFT_012", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1512, "capacity_kg": 2400, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 314, "lane_id": "LANE_SHIFT_013", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 694, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 738, "lane_id": "LANE_SHIFT_013", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1779, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 534, "lane_id": "LANE_SHIFT_013", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 916, "capacity_kg": 1200, "carrier_id": "C04", "eta_days": 5, "express_surcharge_cents": 717, "lane_id": "LANE_SHIFT_013", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 1221, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 716, "lane_id": "LANE_SHIFT_014", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1569, "capacity_kg": 2400, "carrier_id": "C02", "eta_days": 5, "express_surcharge_cents": 662, "lane_id": "LANE_SHIFT_014", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 726, "capacity_kg": 2400, "carrier_id": "C03", "eta_days": 5, "express_surcharge_cents": 417, "lane_id": "LANE_SHIFT_014", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1078, "capacity_kg": 1700, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 436, "lane_id": "LANE_SHIFT_014", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 515, "capacity_kg": 1200, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 307, "lane_id": "LANE_SHIFT_014", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1448, "capacity_kg": 1200, "carrier_id": "C06", "eta_days": 1, "express_surcharge_cents": 206, "lane_id": "LANE_SHIFT_014", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 1354, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 691, "lane_id": "LANE_SHIFT_015", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1765, "capacity_kg": 1200, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 325, "lane_id": "LANE_SHIFT_015", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1064, "capacity_kg": 2400, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 289, "lane_id": "LANE_SHIFT_015", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1635, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 432, "lane_id": "LANE_SHIFT_015", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1344, "capacity_kg": 900, "carrier_id": "C05", "eta_days": 6, "express_surcharge_cents": 730, "lane_id": "LANE_SHIFT_015", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1044, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 355, "lane_id": "LANE_SHIFT_016", "per_kg_cents": 8, "services": ["standard"]}
+{"base_cents": 1466, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 712, "lane_id": "LANE_SHIFT_016", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1679, "capacity_kg": 3600, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 477, "lane_id": "LANE_SHIFT_016", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1244, "capacity_kg": 2400, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 525, "lane_id": "LANE_SHIFT_016", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 1651, "capacity_kg": 1200, "carrier_id": "C05", "eta_days": 6, "express_surcharge_cents": 600, "lane_id": "LANE_SHIFT_016", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 1176, "capacity_kg": 1700, "carrier_id": "C01", "eta_days": 6, "express_surcharge_cents": 734, "lane_id": "LANE_SHIFT_017", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1160, "capacity_kg": 1700, "carrier_id": "C02", "eta_days": 6, "express_surcharge_cents": 415, "lane_id": "LANE_SHIFT_017", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 524, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 6, "express_surcharge_cents": 756, "lane_id": "LANE_SHIFT_017", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 557, "capacity_kg": 1200, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 399, "lane_id": "LANE_SHIFT_017", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1754, "capacity_kg": 900, "carrier_id": "C05", "eta_days": 5, "express_surcharge_cents": 504, "lane_id": "LANE_SHIFT_017", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 461, "capacity_kg": 3600, "carrier_id": "C06", "eta_days": 2, "express_surcharge_cents": 303, "lane_id": "LANE_SHIFT_017", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 983, "capacity_kg": 1700, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 390, "lane_id": "LANE_SHIFT_018", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1506, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 437, "lane_id": "LANE_SHIFT_018", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 876, "capacity_kg": 1700, "carrier_id": "C03", "eta_days": 5, "express_surcharge_cents": 319, "lane_id": "LANE_SHIFT_018", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 685, "capacity_kg": 1200, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 476, "lane_id": "LANE_SHIFT_018", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 364, "capacity_kg": 500, "carrier_id": "C05", "eta_days": 5, "express_surcharge_cents": 268, "lane_id": "LANE_SHIFT_018", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 593, "capacity_kg": 1700, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 226, "lane_id": "LANE_SHIFT_019", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 346, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 5, "express_surcharge_cents": 420, "lane_id": "LANE_SHIFT_019", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1046, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 667, "lane_id": "LANE_SHIFT_019", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 1589, "capacity_kg": 2400, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 445, "lane_id": "LANE_SHIFT_019", "per_kg_cents": 3, "services": ["standard"]}
+{"base_cents": 1158, "capacity_kg": 2400, "carrier_id": "C05", "eta_days": 5, "express_surcharge_cents": 698, "lane_id": "LANE_SHIFT_019", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 543, "capacity_kg": 500, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 235, "lane_id": "LANE_SHIFT_020", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 947, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 742, "lane_id": "LANE_SHIFT_020", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 1297, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 743, "lane_id": "LANE_SHIFT_020", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1115, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 580, "lane_id": "LANE_SHIFT_020", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 387, "capacity_kg": 500, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 529, "lane_id": "LANE_SHIFT_020", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1475, "capacity_kg": 1700, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 251, "lane_id": "LANE_SHIFT_021", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1369, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 356, "lane_id": "LANE_SHIFT_021", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1014, "capacity_kg": 500, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 275, "lane_id": "LANE_SHIFT_021", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 944, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 6, "express_surcharge_cents": 263, "lane_id": "LANE_SHIFT_021", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 1670, "capacity_kg": 2400, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 450, "lane_id": "LANE_SHIFT_021", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 1258, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 406, "lane_id": "LANE_SHIFT_022", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1351, "capacity_kg": 1200, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 446, "lane_id": "LANE_SHIFT_022", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1413, "capacity_kg": 500, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 453, "lane_id": "LANE_SHIFT_022", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1020, "capacity_kg": 500, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 712, "lane_id": "LANE_SHIFT_022", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 305, "capacity_kg": 2400, "carrier_id": "C05", "eta_days": 3, "express_surcharge_cents": 517, "lane_id": "LANE_SHIFT_022", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1535, "capacity_kg": 3600, "carrier_id": "C06", "eta_days": 6, "express_surcharge_cents": 263, "lane_id": "LANE_SHIFT_022", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 969, "capacity_kg": 1700, "carrier_id": "C01", "eta_days": 5, "express_surcharge_cents": 514, "lane_id": "LANE_SHIFT_023", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 1421, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 640, "lane_id": "LANE_SHIFT_023", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 738, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 5, "express_surcharge_cents": 231, "lane_id": "LANE_SHIFT_023", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 626, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 677, "lane_id": "LANE_SHIFT_023", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 1354, "capacity_kg": 2400, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 590, "lane_id": "LANE_SHIFT_023", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 907, "capacity_kg": 900, "carrier_id": "C06", "eta_days": 5, "express_surcharge_cents": 695, "lane_id": "LANE_SHIFT_023", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 905, "capacity_kg": 3600, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 598, "lane_id": "LANE_SHIFT_024", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 1317, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 278, "lane_id": "LANE_SHIFT_024", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 384, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 6, "express_surcharge_cents": 627, "lane_id": "LANE_SHIFT_024", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1090, "capacity_kg": 1700, "carrier_id": "C04", "eta_days": 6, "express_surcharge_cents": 391, "lane_id": "LANE_SHIFT_024", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 1712, "capacity_kg": 500, "carrier_id": "C05", "eta_days": 5, "express_surcharge_cents": 450, "lane_id": "LANE_SHIFT_024", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1462, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 6, "express_surcharge_cents": 336, "lane_id": "LANE_SHIFT_025", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1587, "capacity_kg": 1700, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 302, "lane_id": "LANE_SHIFT_025", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1587, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 5, "express_surcharge_cents": 558, "lane_id": "LANE_SHIFT_025", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1091, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 5, "express_surcharge_cents": 649, "lane_id": "LANE_SHIFT_025", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 1098, "capacity_kg": 500, "carrier_id": "C05", "eta_days": 5, "express_surcharge_cents": 457, "lane_id": "LANE_SHIFT_025", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1683, "capacity_kg": 3600, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 407, "lane_id": "LANE_SHIFT_026", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1414, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 6, "express_surcharge_cents": 498, "lane_id": "LANE_SHIFT_026", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 504, "capacity_kg": 3600, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 345, "lane_id": "LANE_SHIFT_026", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 1292, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 657, "lane_id": "LANE_SHIFT_026", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 676, "capacity_kg": 500, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 310, "lane_id": "LANE_SHIFT_026", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 900, "capacity_kg": 1700, "carrier_id": "C06", "eta_days": 5, "express_surcharge_cents": 426, "lane_id": "LANE_SHIFT_026", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 1028, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 5, "express_surcharge_cents": 571, "lane_id": "LANE_SHIFT_027", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 616, "capacity_kg": 500, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 504, "lane_id": "LANE_SHIFT_027", "per_kg_cents": 2, "services": ["standard"]}
+{"base_cents": 604, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 529, "lane_id": "LANE_SHIFT_027", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1703, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 591, "lane_id": "LANE_SHIFT_027", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 1680, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 741, "lane_id": "LANE_SHIFT_028", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 712, "capacity_kg": 1200, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 565, "lane_id": "LANE_SHIFT_028", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 1326, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 733, "lane_id": "LANE_SHIFT_028", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1466, "capacity_kg": 500, "carrier_id": "C04", "eta_days": 5, "express_surcharge_cents": 199, "lane_id": "LANE_SHIFT_028", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 1382, "capacity_kg": 3600, "carrier_id": "C05", "eta_days": 3, "express_surcharge_cents": 733, "lane_id": "LANE_SHIFT_028", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 1351, "capacity_kg": 900, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 614, "lane_id": "LANE_SHIFT_029", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 365, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 428, "lane_id": "LANE_SHIFT_029", "per_kg_cents": 11, "services": ["standard"]}
+{"base_cents": 533, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 701, "lane_id": "LANE_SHIFT_029", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 517, "capacity_kg": 1200, "carrier_id": "C04", "eta_days": 2, "express_surcharge_cents": 315, "lane_id": "LANE_SHIFT_029", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 964, "capacity_kg": 1200, "carrier_id": "C05", "eta_days": 5, "express_surcharge_cents": 421, "lane_id": "LANE_SHIFT_029", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1257, "capacity_kg": 3600, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 191, "lane_id": "LANE_SHIFT_030", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 809, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 306, "lane_id": "LANE_SHIFT_030", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 1198, "capacity_kg": 1700, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 592, "lane_id": "LANE_SHIFT_030", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 722, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 5, "express_surcharge_cents": 489, "lane_id": "LANE_SHIFT_030", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1170, "capacity_kg": 3600, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 657, "lane_id": "LANE_SHIFT_030", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 1762, "capacity_kg": 2400, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 441, "lane_id": "LANE_SHIFT_031", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1054, "capacity_kg": 1200, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 532, "lane_id": "LANE_SHIFT_031", "per_kg_cents": 11, "services": ["standard"]}
+{"base_cents": 616, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 652, "lane_id": "LANE_SHIFT_031", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1025, "capacity_kg": 500, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 393, "lane_id": "LANE_SHIFT_031", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 1581, "capacity_kg": 2400, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 552, "lane_id": "LANE_SHIFT_031", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1555, "capacity_kg": 500, "carrier_id": "C06", "eta_days": 5, "express_surcharge_cents": 436, "lane_id": "LANE_SHIFT_031", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1205, "capacity_kg": 500, "carrier_id": "C01", "eta_days": 5, "express_surcharge_cents": 516, "lane_id": "LANE_SHIFT_032", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 1486, "capacity_kg": 1700, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 349, "lane_id": "LANE_SHIFT_032", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1112, "capacity_kg": 2400, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 319, "lane_id": "LANE_SHIFT_032", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 1288, "capacity_kg": 3600, "carrier_id": "C04", "eta_days": 6, "express_surcharge_cents": 569, "lane_id": "LANE_SHIFT_032", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 1050, "capacity_kg": 3600, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 619, "lane_id": "LANE_SHIFT_033", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 700, "capacity_kg": 500, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 426, "lane_id": "LANE_SHIFT_033", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1153, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 586, "lane_id": "LANE_SHIFT_033", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1716, "capacity_kg": 1200, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 602, "lane_id": "LANE_SHIFT_033", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 1147, "capacity_kg": 2400, "carrier_id": "C05", "eta_days": 6, "express_surcharge_cents": 186, "lane_id": "LANE_SHIFT_033", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1193, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 459, "lane_id": "LANE_SHIFT_034", "per_kg_cents": 11, "services": ["standard"]}
+{"base_cents": 716, "capacity_kg": 900, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 204, "lane_id": "LANE_SHIFT_034", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 580, "capacity_kg": 500, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 715, "lane_id": "LANE_SHIFT_034", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1735, "capacity_kg": 3600, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 569, "lane_id": "LANE_SHIFT_034", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 966, "capacity_kg": 1200, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 592, "lane_id": "LANE_SHIFT_034", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 1079, "capacity_kg": 3600, "carrier_id": "C06", "eta_days": 5, "express_surcharge_cents": 387, "lane_id": "LANE_SHIFT_034", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 703, "capacity_kg": 2400, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 514, "lane_id": "LANE_SHIFT_035", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1161, "capacity_kg": 2400, "carrier_id": "C02", "eta_days": 6, "express_surcharge_cents": 299, "lane_id": "LANE_SHIFT_035", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1299, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 3, "express_surcharge_cents": 355, "lane_id": "LANE_SHIFT_035", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1404, "capacity_kg": 500, "carrier_id": "C04", "eta_days": 5, "express_surcharge_cents": 457, "lane_id": "LANE_SHIFT_035", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 627, "capacity_kg": 500, "carrier_id": "C05", "eta_days": 6, "express_surcharge_cents": 418, "lane_id": "LANE_SHIFT_035", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 590, "capacity_kg": 3600, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 644, "lane_id": "LANE_SHIFT_036", "per_kg_cents": 11, "services": ["standard"]}
+{"base_cents": 1061, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 650, "lane_id": "LANE_SHIFT_036", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1795, "capacity_kg": 3600, "carrier_id": "C03", "eta_days": 6, "express_surcharge_cents": 594, "lane_id": "LANE_SHIFT_036", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1616, "capacity_kg": 500, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 254, "lane_id": "LANE_SHIFT_036", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 690, "capacity_kg": 900, "carrier_id": "C05", "eta_days": 2, "express_surcharge_cents": 591, "lane_id": "LANE_SHIFT_036", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1372, "capacity_kg": 900, "carrier_id": "C06", "eta_days": 5, "express_surcharge_cents": 366, "lane_id": "LANE_SHIFT_036", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 497, "capacity_kg": 500, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 649, "lane_id": "LANE_SHIFT_037", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 516, "capacity_kg": 500, "carrier_id": "C02", "eta_days": 5, "express_surcharge_cents": 187, "lane_id": "LANE_SHIFT_037", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1336, "capacity_kg": 500, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 274, "lane_id": "LANE_SHIFT_037", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1565, "capacity_kg": 3600, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 266, "lane_id": "LANE_SHIFT_037", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 585, "capacity_kg": 1200, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 209, "lane_id": "LANE_SHIFT_037", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1056, "capacity_kg": 2400, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 542, "lane_id": "LANE_SHIFT_038", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1418, "capacity_kg": 1700, "carrier_id": "C02", "eta_days": 5, "express_surcharge_cents": 416, "lane_id": "LANE_SHIFT_038", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1195, "capacity_kg": 900, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 644, "lane_id": "LANE_SHIFT_038", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 554, "capacity_kg": 900, "carrier_id": "C04", "eta_days": 5, "express_surcharge_cents": 288, "lane_id": "LANE_SHIFT_038", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1376, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 588, "lane_id": "LANE_SHIFT_039", "per_kg_cents": 5, "services": ["standard"]}
+{"base_cents": 1785, "capacity_kg": 1700, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 321, "lane_id": "LANE_SHIFT_039", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1338, "capacity_kg": 2400, "carrier_id": "C03", "eta_days": 1, "express_surcharge_cents": 434, "lane_id": "LANE_SHIFT_039", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 347, "capacity_kg": 1700, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 692, "lane_id": "LANE_SHIFT_039", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 489, "capacity_kg": 3600, "carrier_id": "C05", "eta_days": 5, "express_surcharge_cents": 323, "lane_id": "LANE_SHIFT_039", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1512, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 2, "express_surcharge_cents": 463, "lane_id": "LANE_SHIFT_040", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 1292, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 1, "express_surcharge_cents": 274, "lane_id": "LANE_SHIFT_040", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 1338, "capacity_kg": 1700, "carrier_id": "C03", "eta_days": 6, "express_surcharge_cents": 368, "lane_id": "LANE_SHIFT_040", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1071, "capacity_kg": 1200, "carrier_id": "C04", "eta_days": 6, "express_surcharge_cents": 567, "lane_id": "LANE_SHIFT_040", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1134, "capacity_kg": 900, "carrier_id": "C05", "eta_days": 6, "express_surcharge_cents": 534, "lane_id": "LANE_SHIFT_040", "per_kg_cents": 9, "services": ["standard"]}
+{"base_cents": 594, "capacity_kg": 2400, "carrier_id": "C06", "eta_days": 2, "express_surcharge_cents": 187, "lane_id": "LANE_SHIFT_040", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 1653, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 723, "lane_id": "LANE_SHIFT_041", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 537, "capacity_kg": 1200, "carrier_id": "C02", "eta_days": 4, "express_surcharge_cents": 742, "lane_id": "LANE_SHIFT_041", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 624, "capacity_kg": 500, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 196, "lane_id": "LANE_SHIFT_041", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 1282, "capacity_kg": 2400, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 349, "lane_id": "LANE_SHIFT_041", "per_kg_cents": 8, "services": ["standard"]}
+{"base_cents": 550, "capacity_kg": 3600, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 659, "lane_id": "LANE_SHIFT_041", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1702, "capacity_kg": 3600, "carrier_id": "C06", "eta_days": 5, "express_surcharge_cents": 465, "lane_id": "LANE_SHIFT_041", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 1761, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 594, "lane_id": "LANE_SHIFT_042", "per_kg_cents": 11, "services": ["standard"]}
+{"base_cents": 836, "capacity_kg": 2400, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 759, "lane_id": "LANE_SHIFT_042", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 459, "capacity_kg": 3600, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 717, "lane_id": "LANE_SHIFT_042", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1248, "capacity_kg": 3600, "carrier_id": "C04", "eta_days": 1, "express_surcharge_cents": 752, "lane_id": "LANE_SHIFT_042", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 1003, "capacity_kg": 2400, "carrier_id": "C01", "eta_days": 5, "express_surcharge_cents": 638, "lane_id": "LANE_SHIFT_043", "per_kg_cents": 10, "services": ["standard"]}
+{"base_cents": 1056, "capacity_kg": 1200, "carrier_id": "C02", "eta_days": 5, "express_surcharge_cents": 335, "lane_id": "LANE_SHIFT_043", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1670, "capacity_kg": 1700, "carrier_id": "C03", "eta_days": 2, "express_surcharge_cents": 295, "lane_id": "LANE_SHIFT_043", "per_kg_cents": 6, "services": ["standard"]}
+{"base_cents": 922, "capacity_kg": 1200, "carrier_id": "C04", "eta_days": 4, "express_surcharge_cents": 243, "lane_id": "LANE_SHIFT_043", "per_kg_cents": 4, "services": ["standard", "express"]}
+{"base_cents": 1196, "capacity_kg": 900, "carrier_id": "C05", "eta_days": 4, "express_surcharge_cents": 434, "lane_id": "LANE_SHIFT_043", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 476, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 3, "express_surcharge_cents": 735, "lane_id": "LANE_SHIFT_044", "per_kg_cents": 11, "services": ["standard", "express"]}
+{"base_cents": 1178, "capacity_kg": 2400, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 240, "lane_id": "LANE_SHIFT_044", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1621, "capacity_kg": 3600, "carrier_id": "C03", "eta_days": 4, "express_surcharge_cents": 596, "lane_id": "LANE_SHIFT_044", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 432, "capacity_kg": 1700, "carrier_id": "C04", "eta_days": 5, "express_surcharge_cents": 357, "lane_id": "LANE_SHIFT_044", "per_kg_cents": 6, "services": ["standard", "express"]}
+{"base_cents": 1194, "capacity_kg": 1700, "carrier_id": "C05", "eta_days": 1, "express_surcharge_cents": 405, "lane_id": "LANE_SHIFT_044", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 614, "capacity_kg": 500, "carrier_id": "C06", "eta_days": 2, "express_surcharge_cents": 329, "lane_id": "LANE_SHIFT_044", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 1722, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 374, "lane_id": "LANE_SHIFT_045", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 560, "capacity_kg": 2400, "carrier_id": "C02", "eta_days": 5, "express_surcharge_cents": 400, "lane_id": "LANE_SHIFT_045", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1311, "capacity_kg": 1200, "carrier_id": "C03", "eta_days": 6, "express_surcharge_cents": 332, "lane_id": "LANE_SHIFT_045", "per_kg_cents": 10, "services": ["standard", "express"]}
+{"base_cents": 1598, "capacity_kg": 1700, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 391, "lane_id": "LANE_SHIFT_045", "per_kg_cents": 8, "services": ["standard"]}
+{"base_cents": 1171, "capacity_kg": 900, "carrier_id": "C05", "eta_days": 5, "express_surcharge_cents": 252, "lane_id": "LANE_SHIFT_045", "per_kg_cents": 9, "services": ["standard", "express"]}
+{"base_cents": 679, "capacity_kg": 1700, "carrier_id": "C06", "eta_days": 5, "express_surcharge_cents": 238, "lane_id": "LANE_SHIFT_045", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1702, "capacity_kg": 1200, "carrier_id": "C01", "eta_days": 4, "express_surcharge_cents": 553, "lane_id": "LANE_SHIFT_046", "per_kg_cents": 2, "services": ["standard", "express"]}
+{"base_cents": 948, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 3, "express_surcharge_cents": 313, "lane_id": "LANE_SHIFT_046", "per_kg_cents": 11, "services": ["standard"]}
+{"base_cents": 1104, "capacity_kg": 3600, "carrier_id": "C03", "eta_days": 5, "express_surcharge_cents": 331, "lane_id": "LANE_SHIFT_046", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 1632, "capacity_kg": 1700, "carrier_id": "C04", "eta_days": 6, "express_surcharge_cents": 623, "lane_id": "LANE_SHIFT_046", "per_kg_cents": 7, "services": ["standard"]}
+{"base_cents": 1319, "capacity_kg": 2400, "carrier_id": "C01", "eta_days": 1, "express_surcharge_cents": 457, "lane_id": "LANE_SHIFT_047", "per_kg_cents": 4, "services": ["standard"]}
+{"base_cents": 896, "capacity_kg": 3600, "carrier_id": "C02", "eta_days": 2, "express_surcharge_cents": 459, "lane_id": "LANE_SHIFT_047", "per_kg_cents": 7, "services": ["standard", "express"]}
+{"base_cents": 1203, "capacity_kg": 2400, "carrier_id": "C03", "eta_days": 6, "express_surcharge_cents": 739, "lane_id": "LANE_SHIFT_047", "per_kg_cents": 3, "services": ["standard", "express"]}
+{"base_cents": 1127, "capacity_kg": 500, "carrier_id": "C04", "eta_days": 3, "express_surcharge_cents": 190, "lane_id": "LANE_SHIFT_047", "per_kg_cents": 5, "services": ["standard", "express"]}
+{"base_cents": 659, "capacity_kg": 3600, "carrier_id": "C05", "eta_days": 3, "express_surcharge_cents": 297, "lane_id": "LANE_SHIFT_047", "per_kg_cents": 8, "services": ["standard", "express"]}
+{"base_cents": 1104, "capacity_kg": 900, "carrier_id": "C06", "eta_days": 5, "express_surcharge_cents": 655, "lane_id": "LANE_SHIFT_047", "per_kg_cents": 3, "services": ["standard", "express"]}
